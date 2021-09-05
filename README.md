@@ -1,4 +1,4 @@
-# Password-Generator-v1.1
+# Password-Generator-v1.0
 
 
 A script that generates strong passwords.
