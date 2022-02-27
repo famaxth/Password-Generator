@@ -3,7 +3,6 @@
 import random
 import builtins
 
-
 def create_password(length, special_symbol, big_symbol, numbers, small_symbol):
     chars = ""
     number = 1
